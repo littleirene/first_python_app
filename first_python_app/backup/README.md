@@ -1,3 +1,0 @@
-# my python_training
-
-
